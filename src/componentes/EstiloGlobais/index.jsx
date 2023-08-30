@@ -182,3 +182,5 @@ template {
   display: none;
 }
 `
+
+export default EstilosGlobais
